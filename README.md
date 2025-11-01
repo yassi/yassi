@@ -1,5 +1,6 @@
-## Hi there 👋
+## About Me
 
+I was born. More to follow.
 <!--
 **yassi/yassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
