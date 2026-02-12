@@ -1,17 +1,19 @@
-## About Me
+## Hello, I'm Yassi
 
-I was born. More to follow.
-<!--
-**yassi/yassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building things here and there. Most recently I've been working on Django centric tooling.
 
-Here are some ideas to get you started:
+### Blog/Website
+- [https://yassi.dev](https://yassi.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Django Control Room
+A growing suite of open-source tools that live inside the Django admin
+
+- dj-redis-panel: Redis visibility inside Django admin
+- dj-cache-panel: Inspect and debug your cache layer
+- dj-celery-panel: Monitor workers and tasks from admin
+- dj-urls-panel: Visualize and test Django URL routing inside the Django Admin
+- More coming soon!
+
+
+### Books
+- None, but I'm thinking about it
