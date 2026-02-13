@@ -14,6 +14,11 @@ A growing suite of open-source tools that live inside the Django admin
 - dj-urls-panel: Visualize and test Django URL routing inside the Django Admin
 - More coming soon!
 
+If Django Control Room saves your team time in production,
+you can support its ongoing development here:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=github)](https://github.com/sponsors/yassi)
+
 
 ### Books
 - None, but I'm thinking about it
