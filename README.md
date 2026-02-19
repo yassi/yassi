@@ -6,12 +6,14 @@ I enjoy building things here and there. Most recently I've been working on Djang
 - [https://yassi.dev](https://yassi.dev)
 
 ### Django Control Room
-A growing suite of open-source tools that live inside the Django admin
+Create a command center out of your Django admin with a growing suite of open-source tools that live inside the Django admin
 
-- dj-redis-panel: Redis visibility inside Django admin
-- dj-cache-panel: Inspect and debug your cache layer
-- dj-celery-panel: Monitor workers and tasks from admin
-- dj-urls-panel: Visualize and test Django URL routing inside the Django Admin
+* website: [Django Control Room](https://djangocontrolroom.com)
+
+- [dj-redis-panel](https://github.com/yassi/dj-redis-panel): Redis visibility inside Django admin
+- [dj-cache-panel](https://github.com/yassi/dj-cache-panel): Inspect and debug your cache layer
+- [dj-celery-panel](https://github.com/yassi/dj-celery-panel): Monitor workers and tasks from admin
+- [dj-urls-panel](https://github.com/yassi/dj-urls-panel): Visualize and test Django URL routing inside the Django Admin
 - More coming soon!
 
 If Django Control Room saves your team time in production,
@@ -21,4 +23,4 @@ you can support its ongoing development here:
 
 
 ### Books
-- None, but I'm thinking about it
+- None yet
