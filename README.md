@@ -10,6 +10,7 @@ Create a command center out of your Django admin with a growing suite of open-so
 
 * website: [Django Control Room](https://djangocontrolroom.com)
 
+- [dj-control-room](https://github.com/yassi/dj-control-room): Build a control center in your admin with different tools and panels. The missing plugin systetm for the Django Admin.
 - [dj-redis-panel](https://github.com/yassi/dj-redis-panel): Redis visibility inside Django admin
 - [dj-cache-panel](https://github.com/yassi/dj-cache-panel): Inspect and debug your cache layer
 - [dj-celery-panel](https://github.com/yassi/dj-celery-panel): Monitor workers and tasks from admin
