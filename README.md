@@ -4,6 +4,7 @@ I enjoy building things here and there. Most recently I've been working on Djang
 
 ### Blog/Website
 - [https://yassi.dev](https://yassi.dev)
+- Build a site with the same theme using [hugo-theme-yassi](https://github.com/yassi/hugo-theme-yassi)
 
 ### Django Control Room
 Create a command center out of your Django admin with a growing suite of open-source tools that live inside the Django admin
