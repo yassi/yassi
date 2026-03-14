@@ -30,5 +30,10 @@ you can support its ongoing development here:
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=github)](https://github.com/sponsors/yassi)
 
 
+### Projects
+
+- [Pi Patterns](https://pi.yassi.dev/) - visualize sub sequences of pi and generate amazing art
+
+
 ### Books
 - None yet
