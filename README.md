@@ -1,7 +1,6 @@
 ## Hello, I'm Yassi
 
-I build products and tools that make complex systems visible and controllable.  
-Currently Building the control room for Django.
+I build products and tools. Currently Building the control room for Django.
 
 Member, Django Software Foundation
 
