@@ -19,6 +19,7 @@ Create a command center out of your Django admin.
 - [dj-cache-panel](https://github.com/yassi/dj-cache-panel): Inspect and debug your cache layer
 - [dj-celery-panel](https://github.com/yassi/dj-celery-panel): Monitor workers and tasks from admin
 - [dj-urls-panel](https://github.com/yassi/dj-urls-panel): Visualize and test Django URL routing inside the Django Admin
+- [dj-signals-panel](https://github.com/yassi/dj-signals-panel): See all your registered signals and recievers in the Django admin.
 
 More coming soon.
 
