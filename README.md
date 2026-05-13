@@ -20,6 +20,7 @@ Create a command center out of your Django admin.
 #### Panels Available
 | Panel | What it does |
 | --- | --- |
+| [dj-control-room-base](https://github.com/yassi/dj-control-room-base) | Core library and example panel / design system |
 | [dj-redis-panel](https://github.com/yassi/dj-redis-panel) | Redis visibility inside Django admin |
 | [dj-cache-panel](https://github.com/yassi/dj-cache-panel) | Inspect and debug your cache layer |
 | [dj-celery-panel](https://github.com/yassi/dj-celery-panel) | Monitor workers and tasks from admin |
