@@ -26,6 +26,7 @@ Create a command center out of your Django admin.
 | [dj-celery-panel](https://github.com/yassi/dj-celery-panel) | Monitor workers and tasks from admin |
 | [dj-urls-panel](https://github.com/yassi/dj-urls-panel) | Visualize and test Django URL routing inside the Django Admin |
 | [dj-signals-panel](https://github.com/yassi/dj-signals-panel) | See all your registered signals and recievers in the Django admin. |
+| [dj-doom-panel](https://github.com/yassi/dj-doom-panel) | Play DOOM right in you Django admin. |
 
 More coming soon.
 
