@@ -40,6 +40,7 @@ Build your own panels:
 | Project | Description |
 | --- | --- |
 | [Pi Patterns](https://pi.yassi.dev/) | Visualize sub sequences of pi and generate amazing art |
+| [pypi-tracker](https://github.com/yassi/pypi-tracker) | Tool for collecting and preserving your pypi package stats as a github repo |
 
 
 ### Support
